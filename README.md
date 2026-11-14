@@ -48,5 +48,5 @@ free form at <https://formspree.io> and paste its endpoint there.
 
 - Founder name & title in `index.html` (About section) — currently "Rangesh Kona, Founder & CEO".
 - Stat figures (12+ years, 300+ certs, 98% retention, 90% repeat) — set to real numbers.
-- Client list (Arrow Electronics, Brenntag, Elevance Health, Sallie Mae, Triumph Bank, UST Global) — confirm these can be named publicly.
+- No client names on the site (removed 2026-11-14): name a client only with its permission and when it really uses our work.
 - Phone `+1 (972) 878-3496` and email `Hr@cloudeation.net` — carried over from the previous site.
